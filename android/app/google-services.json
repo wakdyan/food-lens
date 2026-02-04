@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "667112836681",
+    "project_id": "food-lens-5f4d2",
+    "storage_bucket": "food-lens-5f4d2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667112836681:android:2e1979895785fe8dd47998",
+        "android_client_info": {
+          "package_name": "com.apocalypse.food_lens"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO8jJAghykCV2n-GPOzVv9qSa2OwEnrqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667112836681:android:209cebe515a7c757d47998",
+        "android_client_info": {
+          "package_name": "com.example.untitled10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO8jJAghykCV2n-GPOzVv9qSa2OwEnrqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667112836681:android:58ede54f1cd317fcd47998",
+        "android_client_info": {
+          "package_name": "com.urbex.modal_ku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO8jJAghykCV2n-GPOzVv9qSa2OwEnrqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
